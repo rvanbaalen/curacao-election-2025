@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.2.0...curacao-election-2025-v1.3.0) (2025-03-03)
+
+
+### Features
+
+* add detailed section for Trabou pa Kòrsou (TPK) including background, positions, and proposals ([0da971c](https://github.com/rvanbaalen/curacao-election-2025/commit/0da971c4afe386dbc5c13ffd65b7b08af3fa607f))
+
 ## [1.2.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.4...curacao-election-2025-v1.2.0) (2025-03-03)
 
 
