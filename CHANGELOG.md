@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.2...curacao-election-2025-v1.1.3) (2025-03-03)
+
+
+### Bug Fixes
+
+* **workflow:** update Git user configuration for actions ([eea25ca](https://github.com/rvanbaalen/curacao-election-2025/commit/eea25ca4663a192b071ebd840c9982d4c03913d5))
+
 ## [1.1.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.1...curacao-election-2025-v1.1.2) (2025-03-03)
 
 
