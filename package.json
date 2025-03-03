@@ -6,6 +6,9 @@
   "bugs": {
     "url": "https://github.com/rvanbaalen/curacao-election-2025/issues"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rvanbaalen/curacao-election-2025.git"
