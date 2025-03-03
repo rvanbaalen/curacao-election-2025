@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.11.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.10.0...curacao-election-2025-v1.11.0) (2025-03-03)
+
+
+### Features
+
+* add multilingual support and disclaimer note in index.html for Curaçao Elections 2025 ([50fa124](https://github.com/rvanbaalen/curacao-election-2025/commit/50fa1240cccc92e7d800cf70d1ee39e587a37ad2))
+* enhance index.html with improved multilingual support and layout adjustments ([f8ad6f6](https://github.com/rvanbaalen/curacao-election-2025/commit/f8ad6f6587137a4c2d24ea5f997304818ad2e6c6))
+
 ## [1.10.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.9.0...curacao-election-2025-v1.10.0) (2025-03-03)
 
 
