@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.9.0...curacao-election-2025-v1.10.0) (2025-03-03)
+
+
+### Features
+
+* update Open Graph image paths for multilingual support in index.html ([3515f2c](https://github.com/rvanbaalen/curacao-election-2025/commit/3515f2c91b4c0feb2cd0b22ae00dac2ce6133234))
+
 ## [1.9.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.8.0...curacao-election-2025-v1.9.0) (2025-03-03)
 
 
