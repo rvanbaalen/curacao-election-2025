@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.0.0...curacao-election-2025-v1.1.0) (2025-03-03)
+
+
+### Features
+
+* add initial HTML structure for election analysis page ([7d5551d](https://github.com/rvanbaalen/curacao-election-2025/commit/7d5551dbbd2483b90da8ed8e0d0b889db5771d4f))
+
 ## 1.0.0 (2025-03-03)
 
 
