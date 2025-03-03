@@ -18,14 +18,24 @@ jobs:
         with:
           config-file: 'release-please-config.json'
           manifest-file: '.release-please-manifest.json'
+
       - uses: actions/checkout@v4
         if: ${{ steps.release.outputs.release_created }}
+
+      - name: Set Git user
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+        if: ${{ steps.release.outputs.release_created }}
+
       - uses: actions/setup-node@v4
         with:
           node-version-file: 'package.json'
           registry-url: 'https://registry.npmjs.org'
         if: ${{ steps.release.outputs.release_created }}
+
       - run: npm ci
         if: ${{ steps.release.outputs.release_created }}
+
       - run: npm run deploy
         if: ${{ steps.release.outputs.release_created }}
