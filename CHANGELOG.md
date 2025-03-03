@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.4...curacao-election-2025-v1.2.0) (2025-03-03)
+
+
+### Features
+
+* add favicon, add new party information ([22d83fc](https://github.com/rvanbaalen/curacao-election-2025/commit/22d83fc8f55ef6f3294d39da9a4348049cf6ceda))
+* add Open Graph meta tags for improved social sharing ([50d59a0](https://github.com/rvanbaalen/curacao-election-2025/commit/50d59a095462568ded27b9223ab12856587e0278))
+* editorial update and layout adjustments in index.html ([f867e8e](https://github.com/rvanbaalen/curacao-election-2025/commit/f867e8ecdb673f8d3c967bb5f0b6dbd42d5de396))
+* **MKP:** fixed copy ([e9d5015](https://github.com/rvanbaalen/curacao-election-2025/commit/e9d5015d0bc726e8d3a76dc343fd1dc8e9e0d4ec))
+
 ## [1.1.4](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.3...curacao-election-2025-v1.1.4) (2025-03-03)
 
 
