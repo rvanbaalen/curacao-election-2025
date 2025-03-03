@@ -24,8 +24,8 @@ jobs:
 
       - name: Set Git user
         run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "github-actions"
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR_ID}+${GITHUB_ACTOR}@users.noreply.github.com"
         if: ${{ steps.release.outputs.release_created }}
 
       - uses: actions/setup-node@v4
