@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.8.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.7.0...curacao-election-2025-v1.8.0) (2025-03-03)
+
+
+### Features
+
+* create index.html for Curaçao Elections 2025 with detailed political party analysis and multilingual support ([5442c8b](https://github.com/rvanbaalen/curacao-election-2025/commit/5442c8bdc5c0b7acd9718e2245fd3b32df874813))
+* create index.html for Curaçao Elections 2025 with multilingual support and detailed party analysis ([84821dd](https://github.com/rvanbaalen/curacao-election-2025/commit/84821dde68d8a8350b31222cf9fe3c7d5582b9a9))
+* enhance index.html with multilingual support and improved Open Graph metadata ([3e90029](https://github.com/rvanbaalen/curacao-election-2025/commit/3e900290c93c018eb3ff38fc2eb35c087b97fe1b))
+* **Espanol:** add spanish support ([d7beb12](https://github.com/rvanbaalen/curacao-election-2025/commit/d7beb1250abfd1090d3638872f6a1a46541b39bb))
+* update package.json and vite.config.js to include Spanish support and add vite as a dependency ([e90a3f5](https://github.com/rvanbaalen/curacao-election-2025/commit/e90a3f53b653f0c9b5e2f0a4110c0052a99e4d93))
+
 ## [1.7.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.6.0...curacao-election-2025-v1.7.0) (2025-03-03)
 
 
