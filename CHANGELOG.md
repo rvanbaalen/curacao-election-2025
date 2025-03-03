@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.0...curacao-election-2025-v1.1.1) (2025-03-03)
+
+
+### Bug Fixes
+
+* specify Node.js version requirement in package.json ([433907b](https://github.com/rvanbaalen/curacao-election-2025/commit/433907beb63bc8e1248e11d76d494f09abc34494))
+
 ## [1.1.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.0.0...curacao-election-2025-v1.1.0) (2025-03-03)
 
 
