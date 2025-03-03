@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.5.0...curacao-election-2025-v1.6.0) (2025-03-03)
+
+
+### Features
+
+* add detailed section for Movementu Futuro Kòrsou (MFK) including background, positions, and proposals ([37ab786](https://github.com/rvanbaalen/curacao-election-2025/commit/37ab78609d37b660d60470686c4f6e0c5b02d571))
+* add detailed section for Partido Nashonal di Pueblo (PNP) including background, positions, and proposals ([9d819f5](https://github.com/rvanbaalen/curacao-election-2025/commit/9d819f56c6b8a2d7b2de9be734e6edf95f32168d))
+
 ## [1.5.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.4.0...curacao-election-2025-v1.5.0) (2025-03-03)
 
 
