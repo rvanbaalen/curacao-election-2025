@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.3.0...curacao-election-2025-v1.4.0) (2025-03-03)
+
+
+### Features
+
+* add sections for UP and Civil Rights Movement Curaçao with detailed information on their background, positions, and proposals ([ce518a9](https://github.com/rvanbaalen/curacao-election-2025/commit/ce518a96b6702059d00cd13e8503aa28440d59ba))
+* add sections for UP and Civil Rights Movement Curaçao with detailed information on their background, positions, and proposals ([461c90d](https://github.com/rvanbaalen/curacao-election-2025/commit/461c90dd135ed0156b0a526de87e63728ae7820d))
+
 ## [1.3.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.2.0...curacao-election-2025-v1.3.0) (2025-03-03)
 
 
