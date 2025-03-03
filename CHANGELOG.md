@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.5.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.4.0...curacao-election-2025-v1.5.0) (2025-03-03)
+
+
+### Features
+
+* add detailed section for Movementu Desaroyo Duradero Kòrsou (MDDK) including background, positions, and proposals ([6c15722](https://github.com/rvanbaalen/curacao-election-2025/commit/6c157228a3c1f38bd68aeb9dbb5834b3d52c0803))
+* add detailed section for Movementu Futuro Kòrsou (MFK) including background, positions, and proposals ([0fe75f5](https://github.com/rvanbaalen/curacao-election-2025/commit/0fe75f5cbb3b1a14e88b2c07b92dea7dcaa960e1))
+* add detailed section for PAN (Partido Aliansa Nobo) including background, positions, and proposals ([5f7239b](https://github.com/rvanbaalen/curacao-election-2025/commit/5f7239b19fde2fde6ac7a9979e5c6daed6896490))
+* remove detailed section for Movementu Desaroyo Duradero Kòrsou (MDDK) ([52e8399](https://github.com/rvanbaalen/curacao-election-2025/commit/52e83993b2a68b8f9888af597a827360d74a0cc3))
+
 ## [1.4.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.3.0...curacao-election-2025-v1.4.0) (2025-03-03)
 
 
