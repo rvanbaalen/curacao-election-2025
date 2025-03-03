@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.6.0...curacao-election-2025-v1.7.0) (2025-03-03)
+
+
+### Features
+
+* add Google Analytics tracking to index.html for improved data collection ([d1c58d6](https://github.com/rvanbaalen/curacao-election-2025/commit/d1c58d652e7eb028eaa1e54285ca5af9830f6292))
+* add table of contents to index.html for improved navigation ([de9451f](https://github.com/rvanbaalen/curacao-election-2025/commit/de9451fbada13bdb810585b8896efe38aaceb0cb))
+
 ## [1.6.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.5.0...curacao-election-2025-v1.6.0) (2025-03-03)
 
 
