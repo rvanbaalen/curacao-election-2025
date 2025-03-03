@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.11.0...curacao-election-2025-v1.12.0) (2025-03-03)
+
+
+### Features
+
+* improve layout and accessibility in index.html for multilingual support ([0dae24d](https://github.com/rvanbaalen/curacao-election-2025/commit/0dae24d43be5e32a09c99786255d93772fa02e52))
+
 ## [1.11.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.10.0...curacao-election-2025-v1.11.0) (2025-03-03)
 
 
