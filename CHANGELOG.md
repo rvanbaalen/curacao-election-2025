@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.3...curacao-election-2025-v1.1.4) (2025-03-03)
+
+
+### Bug Fixes
+
+* **workflow:** update deploy process in release workflow ([7df700d](https://github.com/rvanbaalen/curacao-election-2025/commit/7df700d6c540049774286b200351842c731abb59))
+
 ## [1.1.3](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.1.2...curacao-election-2025-v1.1.3) (2025-03-03)
 
 
