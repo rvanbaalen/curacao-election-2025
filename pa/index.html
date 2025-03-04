@@ -9,49 +9,6 @@
       gtag('js', new Date());
 
       gtag('config', 'G-TXC5S2YQBZ');
-
-      // Intersection Observer for section tracking
-      document.addEventListener('DOMContentLoaded', function() {
-        const sections = document.querySelectorAll('section[id]');
-        const trackedSections = new Set(); // Track which sections have been viewed
-        let debounceTimer;
-
-        const observer = new IntersectionObserver(entries => {
-          entries.forEach(entry => {
-            if (entry.isIntersecting) {
-              const sectionId = entry.target.getAttribute('id');
-
-              // Only track if we haven't seen this section before
-              if (!trackedSections.has(sectionId)) {
-                // Clear any existing timer to handle rapid scrolling
-                clearTimeout(debounceTimer);
-
-                // Set a debounce delay to ensure user has actually paused on this section
-                debounceTimer = setTimeout(() => {
-                  if (entry.isIntersecting) { // Double-check it's still visible
-                    // Send virtual pageview to Google Analytics
-                    gtag('event', 'page_view', {
-                      page_title: document.querySelector('#' + sectionId + ' h2').textContent,
-                      page_location: window.location.href + '#' + sectionId,
-                      page_path: '/pa/#' + sectionId
-                    });
-
-                    // Add to tracked sections so we don't count it again in this session
-                    trackedSections.add(sectionId);
-
-                    // After tracking, stop observing this section
-                    observer.unobserve(entry.target);
-                  }
-                }, 1000); // 1 second debounce
-              }
-            }
-          });
-        }, { threshold: 0.5 }); // Trigger when 50% of section is visible
-
-        sections.forEach(section => {
-          observer.observe(section);
-        });
-      });
     </script>
 
     <meta charset="UTF-8">
