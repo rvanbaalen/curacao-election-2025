@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.14.3](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.2...curacao-election-2025-v1.14.3) (2025-03-04)
+
+
+### Bug Fixes
+
+* add fixed Table of Contents toggle functionality in index.html ([73df9ce](https://github.com/rvanbaalen/curacao-election-2025/commit/73df9cec5f4732c5098a2e0380a8f1d1e67f561b))
+* place ToC outside of wrapping element for custom styles ([6b7034b](https://github.com/rvanbaalen/curacao-election-2025/commit/6b7034b8f01319016cbc6882840714611b284752))
+
 ## [1.14.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.1...curacao-election-2025-v1.14.2) (2025-03-04)
 
 
