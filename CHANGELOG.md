@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.1...curacao-election-2025-v1.14.2) (2025-03-04)
+
+
+### Bug Fixes
+
+* add sitemap.xml for improved SEO and multilingual support ([8a7d8b7](https://github.com/rvanbaalen/curacao-election-2025/commit/8a7d8b70f5c88421069930835bd0fdd934633710))
+
 ## [1.14.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.0...curacao-election-2025-v1.14.1) (2025-03-04)
 
 
