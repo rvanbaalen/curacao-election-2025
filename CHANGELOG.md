@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.14.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.0...curacao-election-2025-v1.14.1) (2025-03-04)
+
+
+### Bug Fixes
+
+* remove unused Intersection Observer code in index.html for cleaner implementation ([572c8da](https://github.com/rvanbaalen/curacao-election-2025/commit/572c8da5000532c775165d4ad05846d462323168))
+* update color scheme in index.html for improved visual consistency ([2bdc394](https://github.com/rvanbaalen/curacao-election-2025/commit/2bdc39464c5675301377ab36d5b967d19c520ec9))
+* update scroll margin in index.html for improved layout consistency ([476f57e](https://github.com/rvanbaalen/curacao-election-2025/commit/476f57ebbae25709a3b61c6f17ca307d1d05265e))
+* update URLs in index.html for consistent domain urls ([b0be230](https://github.com/rvanbaalen/curacao-election-2025/commit/b0be2306403db1a5ca6dc2c9641ee6bdc89391ba))
+
 ## [1.14.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.13.0...curacao-election-2025-v1.14.0) (2025-03-04)
 
 
