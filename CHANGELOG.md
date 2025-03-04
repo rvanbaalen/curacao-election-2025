@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.13.0...curacao-election-2025-v1.14.0) (2025-03-04)
+
+
+### Features
+
+* update feedback link to Google Forms in index.html for improved user interaction ([4da8822](https://github.com/rvanbaalen/curacao-election-2025/commit/4da88227e3965ee318eedd687cc16db6e0552b2e))
+
 ## [1.13.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.12.0...curacao-election-2025-v1.13.0) (2025-03-03)
 
 
