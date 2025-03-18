@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.15.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.4...curacao-election-2025-v1.15.0) (2025-03-18)
+
+
+### Features
+
+* add social share block with multilingual support for improved user engagement ([1fdd915](https://github.com/rvanbaalen/curacao-election-2025/commit/1fdd915301aa84ded56cf709cae9bb1291709c8c))
+
+
+### Bug Fixes
+
+* update social share links to include UTM parameters for better tracking ([5d6ca53](https://github.com/rvanbaalen/curacao-election-2025/commit/5d6ca534f16ec736829ca8553d5acb2fb2686c16))
+* update social share links to include UTM parameters for enhanced tracking ([1d2f9d3](https://github.com/rvanbaalen/curacao-election-2025/commit/1d2f9d344ff2e06f9c9c0ea22755875511d96c56))
+* update social share links to include UTM parameters for enhanced tracking ([d04e47e](https://github.com/rvanbaalen/curacao-election-2025/commit/d04e47ef52241a4f5aae32348e1402f6265f5b8b))
+* update social share links to include UTM parameters for improved tracking ([378e65c](https://github.com/rvanbaalen/curacao-election-2025/commit/378e65c13383b23ee312883f26faa24a96af86c8))
+
 ## [1.14.4](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.3...curacao-election-2025-v1.14.4) (2025-03-18)
 
 
