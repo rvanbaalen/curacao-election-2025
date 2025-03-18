@@ -95,14 +95,18 @@
             };
             
             // Add click event to toggle button
-            tocToggleBtn.addEventListener('click', toggleToc);
+            tocToggleBtn.addEventListener('click', function(e) {
+                // Stop event propagation to prevent bubbling issues
+                e.stopPropagation();
+                toggleToc();
+            });
             
             // Check visibility on scroll
             window.addEventListener('scroll', checkTocVisibility);
             
             // Close ToC when clicking outside
             document.addEventListener('click', (e) => {
-                if (tocIsOpen && !fixedToc.contains(e.target) && e.target !== tocToggleBtn) {
+                if (tocIsOpen && !fixedToc.contains(e.target) && e.target !== tocToggleBtn && !tocToggleBtn.contains(e.target)) {
                     toggleToc();
                 }
             });
