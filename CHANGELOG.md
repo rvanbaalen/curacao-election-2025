@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.14.4](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.3...curacao-election-2025-v1.14.4) (2025-03-18)
+
+
+### Bug Fixes
+
+* add Google Analytics tracking code for improved site analytics ([dbf237a](https://github.com/rvanbaalen/curacao-election-2025/commit/dbf237a8ce7b7009d5f15f19880d2911430f44b4))
+* add language parameter to Google Analytics configuration for better localization ([7803c9c](https://github.com/rvanbaalen/curacao-election-2025/commit/7803c9cd3aa4128c172463b06b1c2057eaad03f5))
+
 ## [1.14.3](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.2...curacao-election-2025-v1.14.3) (2025-03-18)
 
 
