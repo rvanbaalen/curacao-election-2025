@@ -8,7 +8,9 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-TXC5S2YQBZ');
+      gtag('config', 'G-TXC5S2YQBZ', {
+        language: document.documentElement.lang,
+      });
     </script>
 
     <meta charset="UTF-8">
@@ -32,18 +34,18 @@
     <link rel="alternate" href="https://robinvanbaalen.nl/curacao-election-2025/pa/" hreflang="pap" />
     <link rel="alternate" href="https://robinvanbaalen.nl/curacao-election-2025/" hreflang="nl" />
     <link rel="alternate" href="https://robinvanbaalen.nl/curacao-election-2025/" hreflang="x-default" />
-    
+
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const mainToc = document.getElementById('main-toc');
             const fixedToc = document.getElementById('fixed-toc');
             const tocToggleBtn = document.getElementById('toc-toggle-btn');
-            
+
             if (!mainToc || !fixedToc || !tocToggleBtn) return;
-            
+
             let tocIsOpen = false;
             let btnVisible = false;
-            
+
             // Function to toggle ToC visibility
             const toggleToc = () => {
                 if (tocIsOpen) {
@@ -60,15 +62,15 @@
                     }, 10);
                 }
                 tocIsOpen = !tocIsOpen;
-                
+
                 // Add subtle rotation to button icon
                 tocToggleBtn.classList.toggle('rotate-180');
             };
-            
+
             // Function to check if main ToC is out of view
             const checkTocVisibility = () => {
                 const mainTocRect = mainToc.getBoundingClientRect();
-                
+
                 // If main ToC is above the viewport, show button
                 if (mainTocRect.bottom < 0) {
                     if (!btnVisible) {
@@ -93,28 +95,28 @@
                     }
                 }
             };
-            
+
             // Add click event to toggle button
             tocToggleBtn.addEventListener('click', function(e) {
                 // Stop event propagation to prevent bubbling issues
                 e.stopPropagation();
                 toggleToc();
             });
-            
+
             // Check visibility on scroll
             window.addEventListener('scroll', checkTocVisibility);
-            
+
             // Close ToC when clicking outside
             document.addEventListener('click', (e) => {
                 if (tocIsOpen && !fixedToc.contains(e.target) && e.target !== tocToggleBtn && !tocToggleBtn.contains(e.target)) {
                     toggleToc();
                 }
             });
-            
+
             // Hide both initially
             tocToggleBtn.parentElement.classList.add('hidden');
             tocToggleBtn.classList.add('scale-90', 'opacity-0');
-            
+
             // Initial check
             checkTocVisibility();
         });
@@ -189,7 +191,7 @@
                 <li><a href="#pnp">Partido Nashonal di Pueblo (PNP)</a></li>
             </ul>
         </nav>
-        
+
     </header>
 
     <article class="mx-auto divide-y-2 divide-slate-600">
@@ -870,7 +872,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zM3.75 12h.007v.008H3.75V12zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zm-.375 5.25h.007v.008H3.75v-.008zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
         </svg>
     </button>
-    
+
     <!-- ToC Dropdown -->
     <div id="fixed-toc" class="absolute bottom-14 right-0 bg-white shadow-lg rounded-lg p-3 border border-gray-200 hidden opacity-0 transform scale-95 transition-all duration-150 ease-in-out max-w-xs w-64">
         <h4 class="text-base font-semibold mb-2">Inhoudsopgave</h4>
