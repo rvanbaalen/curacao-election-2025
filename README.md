@@ -1,11 +1,12 @@
-# Party information elections Curacao 2025
+# Partij informatie verkiezingen Curacao 2025
 
-- [Ook beschikbaar in het Nederlands](./README-NL.md)
-- [Tambe disponibel den Papiamentu](./README-PA.md)
+**Nederlands** | [English](./README-EN.md) | [Papiamentu](./README-PA.md) | [Español](./README-ES.md)
 
-## Introduction (English)
+**Website:** [https://robinvanbaalen.nl/curacao-election-2025/](https://robinvanbaalen.nl/curacao-election-2025/)
 
-This repository contains information about the upcoming elections, automatically compiled and possibly subject to
-inaccuracies. If you notice any errors or incorrect information, please let us know by submitting an adjustment through
-the ISSUES section in this repository.
+## Inleiding (Nederlands)
+
+Deze repository bevat informatie over de aankomende verkiezingen, automatisch samengesteld en mogelijk onderhevig aan
+onjuistheden. Indien u fouten of incorrecte informatie opmerkt, verzoeken wij u vriendelijk een aanpassing kenbaar te
+maken via de ISSUES-sectie in deze repository.
 
