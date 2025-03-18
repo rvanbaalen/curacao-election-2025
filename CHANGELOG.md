@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.15.0...curacao-election-2025-v1.15.1) (2025-03-18)
+
+
+### Bug Fixes
+
+* update social share block layout and improve spacing for better user experience ([5878753](https://github.com/rvanbaalen/curacao-election-2025/commit/587875366db7c57f3a82a1b8c1d77a935c7352d8))
+
 ## [1.15.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.14.4...curacao-election-2025-v1.15.0) (2025-03-18)
 
 
