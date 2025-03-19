@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.15.1...curacao-election-2025-v1.16.0) (2025-03-19)
+
+
+### Features
+
+* add section navigation analytics tracking for improved user interaction insights ([8876309](https://github.com/rvanbaalen/curacao-election-2025/commit/887630948f1a3e072564d29e9e3ec0f5a3f5503f))
+
 ## [1.15.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.15.0...curacao-election-2025-v1.15.1) (2025-03-18)
 
 
