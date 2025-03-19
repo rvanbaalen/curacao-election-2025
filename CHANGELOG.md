@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.16.2...curacao-election-2025-v1.17.0) (2025-03-19)
+
+
+### Features
+
+* enhance section analytics tracking with dwell time and scroll detection ([c3ff069](https://github.com/rvanbaalen/curacao-election-2025/commit/c3ff0693aad0958279990c01974ba8539bfc073d))
+
 ## [1.16.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.16.1...curacao-election-2025-v1.16.2) (2025-03-19)
 
 
