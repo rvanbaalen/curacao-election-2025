@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.16.0...curacao-election-2025-v1.16.1) (2025-03-19)
+
+
+### Bug Fixes
+
+* remove redundant deployment steps from release workflow for improved efficiency ([ced1950](https://github.com/rvanbaalen/curacao-election-2025/commit/ced1950cee3377de35a16918187113e9e765aadf))
+
 ## [1.16.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.15.1...curacao-election-2025-v1.16.0) (2025-03-19)
 
 
