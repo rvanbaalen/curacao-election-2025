@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.16.1...curacao-election-2025-v1.16.2) (2025-03-19)
+
+
+### Bug Fixes
+
+* update release-please.yml to add permissions for pages and id-token ([2921fd0](https://github.com/rvanbaalen/curacao-election-2025/commit/2921fd023a42bd22d5b675ed1434dd37ff7a5bea))
+
 ## [1.16.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.16.0...curacao-election-2025-v1.16.1) (2025-03-19)
 
 
