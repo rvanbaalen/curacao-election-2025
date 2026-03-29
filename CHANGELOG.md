@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.17.1...curacao-election-2025-v1.17.2) (2026-03-29)
+
+
+### Bug Fixes
+
+* update base path for custom domain ([fd34931](https://github.com/rvanbaalen/curacao-election-2025/commit/fd34931ea257ae0af1c332f020ab581221b7d98d))
+
 ## [1.17.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.17.0...curacao-election-2025-v1.17.1) (2025-03-19)
 
 
