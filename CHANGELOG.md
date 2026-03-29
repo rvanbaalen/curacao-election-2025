@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.3](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.17.2...curacao-election-2025-v1.17.3) (2026-03-29)
+
+
+### Bug Fixes
+
+* update all URLs for custom subdomain ([320a59e](https://github.com/rvanbaalen/curacao-election-2025/commit/320a59e129990cd6d7f5d54bdd9c202557b4a1ed))
+
 ## [1.17.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.17.1...curacao-election-2025-v1.17.2) (2026-03-29)
 
 
