@@ -3,7 +3,7 @@ import tailwindcss from "@tailwindcss/vite"
 import { defineConfig } from "vite"
 
 export default defineConfig(({ mode }) => ({
-  base: "/curacao-election-2025/",
+  base: "/",
   plugins: [
     tailwindcss(),
   ],
