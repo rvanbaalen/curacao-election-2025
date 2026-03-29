@@ -21,7 +21,7 @@
  */
 export function initSectionAnalytics({
   gaTrackingId = "G-TXC5S2YQBZ",
-  basePagePath = "/curacao-election-2025/",
+  basePagePath = "/",
   baseTitleSuffix = " – Verkiezingen Curaçao 2025",
   mainTocSelector = "#main-toc a",
   fixedTocSelector = "#fixed-toc a",
