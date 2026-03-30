@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.18.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.17.3...curacao-election-2025-v1.18.0) (2026-03-30)
+
+
+### Features
+
+* add persistent footer linking back to robinvanbaalen.nl ([80267bd](https://github.com/rvanbaalen/curacao-election-2025/commit/80267bd6450a1b7bcd153d3582cab1b4ad737278))
+* **seo:** add JSON-LD structured data with author attribution ([e94be17](https://github.com/rvanbaalen/curacao-election-2025/commit/e94be17322b3864fca28e0f89d75bb2ca8a62f16))
+
 ## [1.17.3](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.17.2...curacao-election-2025-v1.17.3) (2026-03-29)
 
 
