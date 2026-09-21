@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://curacao-election-2025.robinvanbaalen.nl/sitemap.xml
