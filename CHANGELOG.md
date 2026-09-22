@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.18.0...curacao-election-2025-v1.18.1) (2026-09-22)
+
+
+### Bug Fixes
+
+* **seo:** shorten the Spanish meta description to under 160 characters ([a758087](https://github.com/rvanbaalen/curacao-election-2025/commit/a7580870f8f8a24dd297575e083dfbf4008bb698))
+
 ## [1.18.0](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.17.3...curacao-election-2025-v1.18.0) (2026-09-21)
 
 
