@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.18.2](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.18.1...curacao-election-2025-v1.18.2) (2026-09-22)
+
+
+### Bug Fixes
+
+* **seo:** add Twitter card tags and absolute Open Graph image URLs ([42f0eb0](https://github.com/rvanbaalen/curacao-election-2025/commit/42f0eb0301d2f1334bbcb8147d3710d861314213))
+* **seo:** add Twitter card tags and ship the Open Graph images from the public directory ([ee9defb](https://github.com/rvanbaalen/curacao-election-2025/commit/ee9defbc6c4e77dd6c19c90a8f6cd29468b330ec))
+
 ## [1.18.1](https://github.com/rvanbaalen/curacao-election-2025/compare/curacao-election-2025-v1.18.0...curacao-election-2025-v1.18.1) (2026-09-22)
 
 
